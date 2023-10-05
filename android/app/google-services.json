@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961493243272",
+    "project_id": "ngo-smvm-16110",
+    "storage_bucket": "ngo-smvm-16110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961493243272:android:edf767357069b8de90d63d",
+        "android_client_info": {
+          "package_name": "com.example.smvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcImg52usNjMNE-eO6M7JWBqNjb5Mkwlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
